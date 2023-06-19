@@ -1,0 +1,83 @@
+body{
+    background:gainsboro;
+}
+ 
+  .movie-card .rating {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffbf00;
+  }
+    /* Style pour le bouton d'ajout de film */
+
+      .filter{
+        margin-bottom:10px;
+        width: 90%;
+        font-size:larger;
+        border-block-end-width:;
+      }
+      
+      /* styles.css */
+      nav {
+        background-color: #f2f2f2;
+        padding: 10px;
+      }
+      
+      form {
+        display: flex;
+        align-items: center;
+        margin-left: 700px;
+      }
+      
+      input[type="text"] {
+        padding: 5px;
+        width: 200px;
+        border: none;
+        border-radius: 3px;
+      }
+    
+      button[type="submit"] {
+        padding: 5px 7px;
+        background-color: #838eab;
+        color: #fff;
+        border: none;
+        border-radius: 3px;
+        margin-left: 5px;
+      }
+      
+    
+    .navbar {
+      background-color: #f2f2f2;
+      padding: 10px;
+    }
+    
+    .navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .navbar li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    
+    .navbar li a {
+      text-decoration: none;
+      color: #333;
+      padding: 5px;
+    }
+    
+    .navbar li a:hover {
+      background-color: #ddd;
+    }
+    .posteUrl{
+        background-color: #823fe5;
+        border-radius: 20px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        padding: auto;
+        text-align: center;
+      
+
+    }
+    
+        
